@@ -7,5 +7,7 @@
 `dir`
 для Linux. MacOs:
 `ls`
+Удаления файла в Windows 
+`del <file_name>`
 
 
